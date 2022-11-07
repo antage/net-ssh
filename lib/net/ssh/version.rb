@@ -46,13 +46,13 @@ module Net
       end
 
       # The major component of this version of the Net::SSH library
-      MAJOR = 7
+      MAJOR = 6
 
       # The minor component of this version of the Net::SSH library
-      MINOR = 0
+      MINOR = 9
 
       # The tiny component of this version of the Net::SSH library
-      TINY  = 1
+      TINY  = 99
 
       # The prerelease component of this version of the Net::SSH library
       # nil allowed
